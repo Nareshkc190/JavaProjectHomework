@@ -15,8 +15,5 @@ public class StringPractice {
 		s.replace(2,3, "d");
 		System.out.println(s);
 		
-		s.trimToSize();
-    	System.out.println(s);
 	}
-
 }
